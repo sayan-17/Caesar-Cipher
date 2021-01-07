@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BreakCaesarCipher
+comment1.params=message
+comment1.target=char\ getMaxOcc(java.lang.String)
+comment2.params=message\ val
+comment2.target=java.lang.String\ getEveryNext(java.lang.String,\ int)
+comment3.params=string1\ string2
+comment3.target=java.lang.String\ combineStrings(java.lang.String,\ java.lang.String)
+comment4.params=message
+comment4.target=int\ getKey(java.lang.String)
+comment5.params=message
+comment5.target=java.lang.String\ breakCipher(java.lang.String)
+comment6.params=message
+comment6.target=java.lang.String\ breakCipher2Key(java.lang.String)
+comment7.params=
+comment7.target=void\ test1Key()
+comment8.params=
+comment8.target=void\ test2Key()
+comment9.params=
+comment9.target=void\ testGetMaxOcc()
+numComments=10
